@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec21d7288e62164783ec61efc9ca025, type: 3}
+  m_Name: MagnetWaveTail
+  m_EditorClassIdentifier: 
+  m_effects:
+    Pole_None: {fileID: 2116019452983047897, guid: 88e4758c39ddae04d8dc1ce6906a5cf2,
+      type: 3}
+    Pole_N: {fileID: 2126704761821771683, guid: 55a69eb41fb60774bb6cf07bb840c4e9,
+      type: 3}
+    Pole_S: {fileID: 6828563700842076882, guid: 4973fee2a74b5d7499a3e989e9c97ab8,
+      type: 3}

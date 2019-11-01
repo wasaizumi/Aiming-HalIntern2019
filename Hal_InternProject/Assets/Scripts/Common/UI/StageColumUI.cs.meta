@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9c9a66f6177bd13458f56921fea40350
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_stageSelectData: {instanceID: 0}
+  - lockUI: {fileID: 21300000, guid: f942531b302728d4fb03cab03b213136, type: 3}
+  - m_stageImage: {instanceID: 0}
+  - m_stageName: {instanceID: 0}
+  - m_stageTime: {instanceID: 0}
+  - m_achievement1: {instanceID: 0}
+  - m_achievement2: {instanceID: 0}
+  - m_achievement3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

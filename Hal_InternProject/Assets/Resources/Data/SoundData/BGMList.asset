@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bb6985c07e694e8cb36fe196d33d641, type: 3}
+  m_Name: BGMList
+  m_EditorClassIdentifier: 
+  m_list:
+  - m_name: TitleScene
+    m_clip: {fileID: 8300000, guid: afbce8acde5e04541b4740362e7d0c8c, type: 3}
+    m_volume: 100
+    m_loopBigin: 0
+    m_loopEnd: 0
+  - m_name: StageSelect
+    m_clip: {fileID: 8300000, guid: 0e7414a9b08f74191a4e592520a1bcaf, type: 3}
+    m_volume: 100
+    m_loopBigin: 0
+    m_loopEnd: 0
+  - m_name: EasyStage
+    m_clip: {fileID: 8300000, guid: 8fe04943359314d5ba764e1e549353f0, type: 3}
+    m_volume: 100
+    m_loopBigin: 304885
+    m_loopEnd: 4988188
+  - m_name: NormalStage
+    m_clip: {fileID: 8300000, guid: 93cb0ebdec20f44d488479d275b1fa46, type: 3}
+    m_volume: 100
+    m_loopBigin: 2919137
+    m_loopEnd: 5830085
+  - m_name: HardStage
+    m_clip: {fileID: 8300000, guid: d67356bf397fa479fbab76a69161bd48, type: 3}
+    m_volume: 100
+    m_loopBigin: 17910
+    m_loopEnd: 4170015
+  - m_name: Doctor
+    m_clip: {fileID: 8300000, guid: 17203fd878aeb44638a687eae7267d58, type: 3}
+    m_volume: 100
+    m_loopBigin: 101883
+    m_loopEnd: 4893833

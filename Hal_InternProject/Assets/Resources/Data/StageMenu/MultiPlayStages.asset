@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 845642d76e05c3246a4dd3552c4cab03, type: 3}
+  m_Name: MultiPlayStages
+  m_EditorClassIdentifier: 
+  m_stageList:
+  - {fileID: 11400000, guid: a318309bfb4bc4d52bcb33090cc6aaa2, type: 2}
+  - {fileID: 11400000, guid: 697f998249ae75948b8eab16c2ba5404, type: 2}
+  - {fileID: 11400000, guid: 20f11ee4a803fc54eb6504ddd4175241, type: 2}
+  - {fileID: 11400000, guid: 501ef96a4b6b83241868adf7c7672880, type: 2}
+  - {fileID: 11400000, guid: 356bf225eed49174693055066e9a1c86, type: 2}
+  - {fileID: 11400000, guid: 461fc1ef09d6d654483b5f30965b591e, type: 2}
+  - {fileID: 11400000, guid: f2b893a702d734ac2b1a6a93d384881c, type: 2}
+  - {fileID: 11400000, guid: 532504a54f2e5424e8b4a9fe6ac5044c, type: 2}

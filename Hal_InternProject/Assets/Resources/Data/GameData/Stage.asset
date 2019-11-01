@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad0fb4a27775ae246858d11f7e70e0ff, type: 3}
+  m_Name: Stage
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 0}
+  m_stageName: NONE
+  m_stageImage: {fileID: 0}
+  m_difficulty: 1
+  m_achieveCoinNum: 3
+  m_limitTime: 60
+  m_changeNum: 3
+  m_isLock: 0
+  m_onceClear: 0
+  m_time: 5999
+  m_isAchievement1: 0
+  m_isAchievement2: 0
+  m_isAchievement3: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01f7dbb60fe3d42199834b1fabe7b446, type: 3}
+  m_Name: SoundGeneral
+  m_EditorClassIdentifier: 
+  m_bgmMixer: {fileID: 1942069052505610894, guid: e58a9b0e456b14fd786cbd4a39023b40,
+    type: 2}
+  m_bgmList: {fileID: 11400000, guid: c73b4e3f60ac948d0a0a4c7e9f580341, type: 2}
+  m_bgmVolume: 80
+  m_seMixer: {fileID: 8776803848256490324, guid: e58a9b0e456b14fd786cbd4a39023b40,
+    type: 2}
+  m_seList: {fileID: 11400000, guid: 4dacad621fad3438d88e63fce185ada9, type: 2}
+  m_seVolume: 80

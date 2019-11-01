@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01f7dbb60fe3d42199834b1fabe7b446
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _bgmMixer: {fileID: 1942069052505610894, guid: e58a9b0e456b14fd786cbd4a39023b40,
+      type: 2}
+  - _seMixer: {fileID: 8776803848256490324, guid: e58a9b0e456b14fd786cbd4a39023b40,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

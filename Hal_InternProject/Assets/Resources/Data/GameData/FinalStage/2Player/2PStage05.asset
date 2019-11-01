@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad0fb4a27775ae246858d11f7e70e0ff, type: 3}
+  m_Name: 2PStage05
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 8599484294367302523, guid: ef470e6aa1eae0a40965a9c746cb91ff,
+    type: 3}
+  m_stageName: Stage 06
+  m_stageImage: {fileID: 21300000, guid: ea9803e8c56c31f4293035086633da2f, type: 3}
+  m_difficulty: 2
+  m_achieveCoinNum: 4
+  m_limitTime: 105
+  m_changeNum: 17
+  m_isLock: 1
+  m_onceClear: 0
+  m_time: 105
+  m_isAchievement1: 0
+  m_isAchievement2: 0
+  m_isAchievement3: 0

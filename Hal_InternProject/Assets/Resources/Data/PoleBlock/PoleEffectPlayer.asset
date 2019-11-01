@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec21d7288e62164783ec61efc9ca025, type: 3}
+  m_Name: PoleEffectPlayer
+  m_EditorClassIdentifier: 
+  m_effects:
+    Pole_To_None: {fileID: 8399231424351481887, guid: ffdd5da88b705b34bba420b95938e874,
+      type: 3}
+    Pole_To_N: {fileID: 6097864065825888487, guid: ba60d7b1b20f0b44fa1163069add6aa6,
+      type: 3}
+    Pole_To_S: {fileID: 781393548585156767, guid: 58897d2b46e1775479b048681cf6a10b,
+      type: 3}
